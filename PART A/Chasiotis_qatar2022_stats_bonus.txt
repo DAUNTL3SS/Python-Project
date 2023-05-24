@@ -1,0 +1,12 @@
+    PLAYERS TEAM  AGE  GOALS  GFP  SHOTS  SOT  CHANCES  AVG_SD  G/S  NPG/S
+    Alvarez  ARG   22      4    0     11    8        2    12.2 0.36   0.36
+      Gakpo  NED   23      3    0      5    3        5    19.9 0.60   0.60
+     Giroud  FRA   36      4    0     16    6        2    11.0 0.25   0.25
+     Mbappe  FRA   23      8    2     29   11       11    17.1 0.28   0.21
+      Messi  ARG   35      7    4     27   13       17    21.0 0.26   0.11
+     Morata  SPA   30      3    0      8    5        2    10.3 0.38   0.38
+      Ramos  POR   21      3    0      7    5        2    11.3 0.43   0.43
+   Rashford  ENG   25      3    0     11    6        0    16.6 0.27   0.27
+Richarlison  BRA   25      3    0      8    4        6    12.1 0.38   0.38
+       Saka  ENG   21      3    0      7    5        5    14.9 0.43   0.43
+   Valencia  ECU   33      3    1      8    3        3    18.9 0.38   0.25
